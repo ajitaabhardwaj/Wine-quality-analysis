@@ -40,11 +40,6 @@ Load the Red Wine Quality dataset into a Pandas DataFrame.
 - Alcohol and volatile acidity significantly affect wine quality
 - Residual sugar and chlorides have low correlation with quality
 
-## Folder Structure
-Red-wine-analysis/
-├─ Red-wine-analysis.ipynb
-├─ README.md
-
 ## How to run this?
 Step 1) Clone the repo
 ```sh
@@ -57,6 +52,13 @@ pip install pandas matplotlib seaborn jupyter
 Step 3) Launch Jupyter notebook
 ```sh
 jupyter notebook Red-wine-analysis.ipynb
+```
+## Folder Structure
+
+```sh
+Red-wine-analysis/
+├─ Red-wine-analysis.ipynb
+├─ README.md
 ```
 
 #Future Enhancements
